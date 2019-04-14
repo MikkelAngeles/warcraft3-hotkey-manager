@@ -1,0 +1,180 @@
+﻿
+//move
+[CmdMove]
+Tip=|cffffcc00M|rove
+Hotkey=M
+
+//attack
+[CmdAttack]
+Tip=|cffffcc00A|rttack
+Hotkey=A
+
+//attack ground
+[CmdAttackGround]
+Tip=Attack |cffffcc00G|rround
+Hotkey=G
+
+//build (generic)
+[CmdBuild]
+Tip=|cffffcc00B|ruild Structure
+Hotkey=B
+
+//build (human)
+[CmdBuildHuman]
+Tip=|cffffcc00B|ruild Structure
+Hotkey=B
+
+//build (orc)
+[CmdBuildOrc]
+Tip=|cffffcc00B|ruild Structure
+Hotkey=B
+
+//build (nightelf)
+[CmdBuildNightElf]
+Tip=Create |cffffcc00B|ruilding
+Hotkey=B
+
+//build (undead)
+[CmdBuildUndead]
+Tip=Summon |cffffcc00B|ruilding
+Hotkey=B
+
+//cancel
+[CmdCancel]
+Tip=Cancel (|cffffcc00ESC|r)
+Hotkey=512
+
+//cancel build
+[CmdCancelBuild]
+Tip=Cancel (|cffffcc00ESC|r)
+Hotkey=512
+
+//cancel train
+[CmdCancelTrain]
+Tip=Cancel (|cffffcc00ESC|r)
+Hotkey=512
+
+//cancel revive
+[CmdCancelRevive]
+Tip=Cancel (|cffffcc00ESC|r)
+Hotkey=512
+
+//hold position
+[CmdHoldPos]
+Tip=|cffffcc00H|rold Position
+Hotkey=H
+
+//patrol
+[CmdPatrol]
+Tip=|cffffcc00P|ratrol
+Hotkey=P
+
+//rally
+[CmdRally]
+Tip=Set Rall|cffffcc00y|r Point
+Hotkey=Y
+
+//select skill
+[CmdSelectSkill]
+Tip=Her|cffffcc00o|r Abilities
+Hotkey=O
+
+//stop
+[CmdStop]
+Tip=|cffffcc00S|rtop
+Hotkey=S
+
+//normal harvest
+[Ahar]
+Tip=|cffffcc00G|rather
+Untip=R|cffffcc00e|rturn Resources
+Hotkey=G
+Unhotkey=E
+
+//lumber harvest (ghoul)
+[Ahrl]
+Tip=|cffffcc00G|rather
+Untip=R|cffffcc00e|rturn Resources
+Hotkey=G
+Unhotkey=E
+
+// peon/peasant repair ability
+[Arep]
+Tip=|cffffcc00R|repair
+Untip="|cffc3dbffRight-click to activate auto-casting.|r"
+Hotkey=R
+Unhotkey=R
+
+// neutral interact (Select user command) which is used on player shops, etc
+[Anei]
+Tip=Select |cffffcc00U|rser
+Hotkey=U
+
+// Cargo Load (Zeppelin)
+[Aloa]
+Tip=|cffffcc00L|road
+Hotkey=L
+
+// Cargo Unload (zeppelin)
+[Adro]
+Tip=|cffffcc00U|rnload All
+Hotkey=U
+
+//cargo unload (sea transports)
+[Sdro]
+Tip=|cffffcc00U|rnload All
+Hotkey=U
+
+/////////////////////////////
+//Human Units & Abilities
+/////////////////////////////
+
+//dragonhawk 
+[hdhw]
+Hotkey=D
+Tip=Train |cffffcc00D|rragonhawk Rider
+
+// Aerial Shackles
+[Amls]
+Tip=A|cffffcc00e|rrial Shackles
+Hotkey=E
+
+// Cloud
+[Aclf]
+Tip=|cffffcc00C|rloud
+Hotkey=C
+
+//footman
+[hfoo]	
+Hotkey=F
+Tip=Train |cffffcc00F|rootman
+
+// Defend
+[Adef]
+Tip=|cffffcc00D|refend
+Untip=Stop |cffffcc00D|refend
+Hotkey=D
+Unhotkey=D
+
+//flying machine
+[hgyr]
+Hotkey=F
+Tip=Train |cffffcc00F|rlying Machine
+
+//knight
+[hkni]
+Hotkey=K
+Tip=Train |cffffcc00K|rnight
+
+//priest
+[hmpr]
+Hotkey=P
+Tip=Train |cffffcc00P|rriest
+
+// Inner Fire
+[Ainf]
+Tip=Inner |cffffcc00F|rire
+Untip="|cffc3dbffRight-click to activate auto-casting.|r"
+Hotkey=F
+Unhotkey=F
+
